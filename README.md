@@ -44,22 +44,6 @@ yarn add react-pro-sidebar
 npm install react-pro-sidebar
 ```
 
-## Usage
-
-```jsx
-import { Sidebar, Menu, MenuItem, SubMenu } from 'react-pro-sidebar';
-
-<Sidebar>
-  <Menu>
-    <SubMenu label="Charts">
-      <MenuItem> Pie charts </MenuItem>
-      <MenuItem> Line charts </MenuItem>
-    </SubMenu>
-    <MenuItem> Documentation </MenuItem>
-    <MenuItem> Calendar </MenuItem>
-  </Menu>
-</Sidebar>;
-```
 
 ## Using React Router
 
